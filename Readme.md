@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Oleg Yushin](https://up.htmlacademy.ru/htmlcss/14/user/108762).
+* Наставник: [Дмитрий Казанцев] https://htmlacademy.ru/profile/id24186.
 
 ---
 
