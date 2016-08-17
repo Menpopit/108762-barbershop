@@ -3,11 +3,11 @@ body {
   font-family: "PT Sans Narrow", "Arial", sans-serif;
   font-style: normal;
   line-height: 24px;
-  color: #000000
+  color: #000000;
+  text-transform: uppercase;
 }
 h1 {
   font-size: 30px;
-  text-transform: uppercase;
 }
 
 .clearfix::after {
@@ -46,7 +46,6 @@ nav {
 }
 
 .main-header {
-  text-transform: uppercase;
   min-height: 70px;
   margin-bottom: 55px;
 }
@@ -55,14 +54,16 @@ nav {
   float: left;
   width: auto;
   margin-right:40px;
-  text-transform: uppercase;
 }
 
 form {
   float: left;
   width: 220px;
   margin-right: 20px;
-  text-transform: uppercase;
+}
+
+article {
+  text-transform: none;
 }
 
 .goods-container {
@@ -131,11 +132,30 @@ input {
   margin-right: 0px;
 }
 
+.in-stock {
+  float: left;
+  width: 390px;
+}
+
+.stock {
+  float: left;
+  width: 150px;
+}
+
+.article {
+  float: right;
+  width: 150px;
+}
+
+.description {
+  float: left;
+  width: 390px;
+}
+
 .main-footer {
   margin-top: 50px;
   padding-top: 60px;
   padding-bottom: 40px;
-  text-transform: uppercase;
 }
 
 .footer-contacts {
