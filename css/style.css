@@ -36,6 +36,10 @@ nav {
   width: 120px;
 }
 
+.main-navigation ul {
+  margin: 0;
+}
+
 .user-block {
   float: right;
   width: 140px;
@@ -61,13 +65,7 @@ form {
   text-transform: uppercase;
 }
 
-.goods-container {
-  float: left;
-  width: 700px;
-}
-
 .small-goods-container {
-  float: left;
   padding-bottom: 45px;
 }
 
@@ -105,7 +103,7 @@ input {
 .small-picture {
   float: left;
   width: 140px;
-  margin-right: 0px;
+  margin-right: 20px;
 }
 
 .small-picture:nth-child(3) {
